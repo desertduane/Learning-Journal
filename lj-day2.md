@@ -18,4 +18,8 @@ I see now my struggle was that I was not breaking the problem down into small en
 
 #Learning Journal Entry 4
 
-This last week was very difficult! Many moments I thought I was going to have to give up. Through the struggle with a lot of help from fellow students I managed to find my way to working code with a functioning table and form. Now that I see it working it makes much more sense to me than when I was trying to piece it together. I still need a lot of work on really planning out step by step how I solve these problems and building the code in smaller pieces and not just try to shred the whole thing out in one go just to see it full of errors. 
+This last week was very difficult! Many moments I thought I was going to have to give up. Through the struggle with a lot of help from fellow students I managed to find my way to working code with a functioning table and form. Now that I see it working it makes much more sense to me than when I was trying to piece it together. I still need a lot of work on really planning out step by step how I solve these problems and building the code in smaller pieces and not just try to shred the whole thing out in one go just to see it full of errors.
+
+#Learning Journal Entry 5
+
+On Friday this week I spent most of the day working on putting together the chocolate cookie assignment. I was amazed at how smoothly it went as I almost finished it by the time I had to go home. I realized I found CSS more enjoyable when I had guidelines to follow and knew what I was trying to make. CSS is much more frustrating to me when I am just given a blank canvas with no direction because I get frustrated in trying to figure out what works and what looks good. 
