@@ -22,4 +22,8 @@ This last week was very difficult! Many moments I thought I was going to have to
 
 #Learning Journal Entry 5
 
-On Friday this week I spent most of the day working on putting together the chocolate cookie assignment. I was amazed at how smoothly it went as I almost finished it by the time I had to go home. I realized I found CSS more enjoyable when I had guidelines to follow and knew what I was trying to make. CSS is much more frustrating to me when I am just given a blank canvas with no direction because I get frustrated in trying to figure out what works and what looks good. 
+On Friday this week I spent most of the day working on putting together the chocolate cookie assignment. I was amazed at how smoothly it went as I almost finished it by the time I had to go home. I realized I found CSS more enjoyable when I had guidelines to follow and knew what I was trying to make. CSS is much more frustrating to me when I am just given a blank canvas with no direction because I get frustrated in trying to figure out what works and what looks good.
+
+#Learning Journal Entry 5
+
+Today my group and I experienced a lot of long periods of hitting a wall followed by short bursts of success. Trying to figure out the functions needed to stop duplicate images from appearing in our selection of three was by far the biggest wall to over come today. Next will be trying to get it to count up how many times an image is clicked which unfortunately we did not get to that today. 
