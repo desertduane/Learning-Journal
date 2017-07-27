@@ -26,4 +26,7 @@ On Friday this week I spent most of the day working on putting together the choc
 
 #Learning Journal Entry 5
 
-Today my group and I experienced a lot of long periods of hitting a wall followed by short bursts of success. Trying to figure out the functions needed to stop duplicate images from appearing in our selection of three was by far the biggest wall to over come today. Next will be trying to get it to count up how many times an image is clicked which unfortunately we did not get to that today. 
+Today my group and I experienced a lot of long periods of hitting a wall followed by short bursts of success. Trying to figure out the functions needed to stop duplicate images from appearing in our selection of three was by far the biggest wall to over come today. Next will be trying to get it to count up how many times an image is clicked which unfortunately we did not get to that today.
+
+#Learning Journal Entry 6
+Today we leaned about how to utilize the local storage in browser to save data for when a page is closed refreshed etc. This may have been the most frustrating day since we searched all day for an answer that turned out to only be 4-5 lines of code. 
