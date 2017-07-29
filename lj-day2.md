@@ -24,9 +24,12 @@ This last week was very difficult! Many moments I thought I was going to have to
 
 On Friday this week I spent most of the day working on putting together the chocolate cookie assignment. I was amazed at how smoothly it went as I almost finished it by the time I had to go home. I realized I found CSS more enjoyable when I had guidelines to follow and knew what I was trying to make. CSS is much more frustrating to me when I am just given a blank canvas with no direction because I get frustrated in trying to figure out what works and what looks good.
 
-#Learning Journal Entry 5
+#Learning Journal Entry 6
 
 Today my group and I experienced a lot of long periods of hitting a wall followed by short bursts of success. Trying to figure out the functions needed to stop duplicate images from appearing in our selection of three was by far the biggest wall to over come today. Next will be trying to get it to count up how many times an image is clicked which unfortunately we did not get to that today.
 
-#Learning Journal Entry 6
-Today we leaned about how to utilize the local storage in browser to save data for when a page is closed refreshed etc. This may have been the most frustrating day since we searched all day for an answer that turned out to only be 4-5 lines of code. 
+#Learning Journal Entry 7
+Today we leaned about how to utilize the local storage in browser to save data for when a page is closed refreshed etc. This may have been the most frustrating day since we searched all day for an answer that turned out to only be 4-5 lines of code.
+
+#Learning Journal Entry 8
+For our final formal day of class we finally learned who our groups for project week are. I am very pleased with my group as they are hard working folks who together I believe we form a strong coding team. Together as a team we came up with the idea to create a casino war card game for our final project. It still needs approval but I believe this could be a fun challenge and could demonstrate what we have learned over the course of 201. As for todays activity other than beginning to plan our project we worked on preventing merge conflicts while working as a group in github. 
