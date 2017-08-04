@@ -34,5 +34,8 @@ Today we leaned about how to utilize the local storage in browser to save data f
 #Learning Journal Entry 8
 For our final formal day of class we finally learned who our groups for project week are. I am very pleased with my group as they are hard working folks who together I believe we form a strong coding team. Together as a team we came up with the idea to create a casino war card game for our final project. It still needs approval but I believe this could be a fun challenge and could demonstrate what we have learned over the course of 201. As for todays activity other than beginning to plan our project we worked on preventing merge conflicts while working as a group in github.
 
-#Journal Entry project week 1
+#Journal Entry project week entry 1
 Project week for my team has gone about as smooth as I could have expected. It hasn't been without its difficulty aka trying to embed a video into html. I have no idea why I cannot get it to work. I was eventually able to upload them to youtube and link them in that way. As of the end of wednesday our site has all the functionality we initially set out to do plus some extras also our css of the pages is coming along nicely. Thursday is going to be focused on styling and stretch goals.  
+
+#Journal Entry Project Week Entry 2
+This week has been a lot of fun. I am so glad to have ended up in a team that worked so well together. We combined our strengths helped pick up each others weaknesses and made a site that we are quite proud of. Very nervous about our presentation tomorrow but excited for wrapping up the first leg of this code fellows journey as it has been a fantastic experience.
