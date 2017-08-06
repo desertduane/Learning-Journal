@@ -39,3 +39,6 @@ Project week for my team has gone about as smooth as I could have expected. It h
 
 #Journal Entry Project Week Entry 2
 This week has been a lot of fun. I am so glad to have ended up in a team that worked so well together. We combined our strengths helped pick up each others weaknesses and made a site that we are quite proud of. Very nervous about our presentation tomorrow but excited for wrapping up the first leg of this code fellows journey as it has been a fantastic experience.
+
+#Journal Entry Project Week Entry 3
+Today we wrapped up our 201 journey with the presentations of our projects. Over all I am very satisfied with our project and feel fortunate for being paired with some outstanding guys Gregory and Han. We worked together really well and I could not have asked for a nicer pair of teammates. I was also very impressed with everyone else's projects it is obvious everyone did their best to show off what they know and have learned over this 201 course. I look forward to seeing everyone in 301 and with this group of folks I know we will all make it through. 
