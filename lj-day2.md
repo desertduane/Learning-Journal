@@ -42,9 +42,3 @@ This week has been a lot of fun. I am so glad to have ended up in a team that wo
 
 #Journal Entry 201 Project Week Entry 3
 Today we wrapped up our 201 journey with the presentations of our projects. Over all I am very satisfied with our project and feel fortunate for being paired with some outstanding guys Gregory and Han. We worked together really well and I could not have asked for a nicer pair of teammates. I was also very impressed with everyone else's projects it is obvious everyone did their best to show off what they know and have learned over this 201 course. I look forward to seeing everyone in 301 and with this group of folks I know we will all make it through.
-
-#Journal Entry 1 301
-Today began our journey through code 301. It is interesting to know we will be pair programming every day with a new partner. Everyone in the class is really easy going so I anticipate all group assignments to go very well. An aspect of 301 that excites me is working with and modifying existing an existing code base. I feel like I have an easier time working with code when I am not starting with a total blank canvas. Today we working on making changes to a blog post that allow it to adapt to different screen sizes such as on a mobile device or on a desktop screen.
-
-#Journal Entry 2 301
-Today we learned about Jquery with events. No surprise our lab was to add events to the blog post that we have been working on prior this week. I am amazed with how much unseen magic that goes on with jquery as our buildout today required very little code to be added to the starter code to achieve the desired functionality though it became clear that a strong understanding of whats going on in the other code was a must in order to figure out what jquery is needed. Both Joseph and I got stumped on the setTeaser function. We were close just struggled to figure out how to open just the selected article instead of all of them. 
